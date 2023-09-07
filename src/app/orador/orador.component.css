@@ -1,0 +1,5 @@
+.botonEnviar {
+  /*redefine el color del botón enviar*/
+  background-color: #95c842 !important;
+  border-color: #95c842 !important;
+}
